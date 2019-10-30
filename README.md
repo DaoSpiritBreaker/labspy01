@@ -12,7 +12,7 @@ Oke langsung ke program nya. Algoritma atau aliran:
     6.Masukan Agama
     7.Masukan Pekerjaan
     8.Masukan Hobi
-    9.Masukan Kata Mutiara
+    9.Masukan Kata Motifasi
     10.Mencetak inputan user dari variabel diatas
     11.Selesai
 
